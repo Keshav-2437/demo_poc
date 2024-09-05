@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068008329021",
+    "project_id": "hb-demo-168ee",
+    "storage_bucket": "hb-demo-168ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068008329021:android:6be855e502eb7c76b0ff54",
+        "android_client_info": {
+          "package_name": "com.demohb.hb_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eO_99KM9zd760joggW0zWFuy2cr-6xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

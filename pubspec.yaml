@@ -1,0 +1,55 @@
+name: hb_demo
+description: "A new Flutter project."
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: 3.24.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: 1.0.8
+  flutter_svg: 2.0.9
+  shared_preferences: 2.3.2
+  path_provider: 2.1.4
+  file_picker: 8.1.2
+  provider: 6.1.2
+  get_it: 7.7.0
+  firebase_core: 2.24.2
+  fl_chart: 0.69.0
+  modal_bottom_sheet: 3.0.0
+  firebase_crashlytics: 3.4.9
+  firebase_messaging: 14.7.10
+  dio: 5.6.0
+  pdfx: 2.6.0
+  firebase_analytics: 10.8.0
+  internet_file: 1.2.0
+  firebase_performance: 0.9.3+8
+  win32: 5.5.1 
+
+
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+  flutter_lints: 4.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - lib/core/res/images/
+    - assets/sample.pdf
+
+
+
